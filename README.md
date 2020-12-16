@@ -1,0 +1,1 @@
+# aws_sam_lambda_func_with_docker_img
