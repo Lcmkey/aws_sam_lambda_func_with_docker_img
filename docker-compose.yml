@@ -1,0 +1,9 @@
+version: "3.4"
+
+services:
+  docker_lambda_hanlder:
+    container_name: docker_lambda_hanlder
+    image: docker_lambda_hanlder
+    build:
+      context: .
+      dockerfile: Dockerfile
